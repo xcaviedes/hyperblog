@@ -1,8 +1,11 @@
 body 
   {
-    color:#1e1a16;
+    color:#333;
     text-align: center;
-    font-family: "Courier";
+    font-family: Courier;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
   }
   #container
   {
@@ -10,7 +13,7 @@ body
     padding: 1em;
     text-align: left;
     border: 1px solid #ddd;
-    margin: 0auto;
+    margin: 0 auto;
   }
 
   #container h1
